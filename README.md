@@ -11,6 +11,13 @@ regeneration bath forms around you.
 Find the twelve temples, attune to each one's note to claim its key, raise your awareness, and
 the Halls of Amenti at the centre of the universe will open to you.
 
+The sky around you is worth listening to on its own. Binary stars beat slowly against their
+companions; pulsars tick like metronomes you can steer toward from far away; quasars blaze at the
+edge of hearing as fixed landmarks. Solar storms break over you, and a magnetar will drag your
+tuning off true. Fly into a protoplanetary disk or the Stellar Nursery and the targets will not
+hold still — but the worlds there are rich. And somewhere out past the middle, a dead star devours
+its companion, roaring, survivable only by near-perfect resonance.
+
 **➡ [Download the latest release](https://github.com/taljazz/SpaceSim-releases/releases/latest)**
 
 ---
@@ -58,6 +65,7 @@ SpaceSim is built to be played entirely by ear.
 | **L** / **T** | Anchor on a planet / ascend back to space |
 | **G** | Turn the Tuaoi crystal to its next face |
 | **T** (in flight) | A temple's note, or your journey compass |
+| **C** | Open the Frequency Codex and re-read a recovered page |
 | **R** | Spoken status report |
 | **U** | Status panel, or the attunement menu while anchored |
 | **P** / **Shift+P** | Drop a portal anchor / travel to one |
